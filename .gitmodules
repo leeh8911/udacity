@@ -1,0 +1,6 @@
+[submodule "data_analysis"]
+	path = data_analysis
+	url = https://github.com/leeh8911/UdacityDataAnalyst.git
+[submodule "cpp/first_project"]
+	path = cpp/first_project
+	url = https://github.com/leeh8911/CppND-Route-Planning-Project.git
